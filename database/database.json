@@ -1,0 +1,125 @@
+{
+    "fabrics": [
+        {
+          "id": 1,
+          "name": "Cotton Blend",
+          "color": "White", 
+          "type": "Woven",
+          "composition": "80% Cotton, 20% Polyester",
+          "weight": "150 GSM",
+          "width": "44 inches",
+          "weave_or_knit_structure": "Plain Weave",
+          "thread_count": 180,
+          "dyeing_and_finishing": "Reactive dyed, pre-shrunk",
+          "shrinkage": "5%",
+          "washing": "Machine wash cold, gentle cycle",
+          "drying": "Tumble dry low, remove promptly",
+          "ironing": "Iron on medium heat",
+          "dry_cleaning": "Not recommended",
+          "suggested_applications": "Apparel (shirts, dresses)",
+          "manufacturer": {
+            "name": "Cotton Textile Co.",
+            "contact": "contact@cottontextile.com",
+            "phone": "+1-800-123-4567"
+          },
+          "supplier": {
+            "name": "Fabric Supply Ltd.",
+            "contact": "sales@fabricsupply.com",
+            "phone": "+1-800-765-4321"
+          },
+          "image_url": "src/assets/fabrics/80:20 white.webp",
+          "created_at": "2025-03-01T10:00:00Z"
+        },
+        {
+          "id": 2,
+          "name": "Denim",
+          "color": "Blue",
+          "type": "Woven",
+          "composition": "100% Cotton",
+          "weight": "350 GSM",
+          "width": "60 inches",
+          "weave_or_knit_structure": "Twill Weave",
+          "thread_count": "200 threads per inch",
+          "dyeing_and_finishing": "Indigo dyed, stone washed",
+          "shrinkage": "8%",
+          "washing": "Machine wash cold, inside out",
+          "drying": "Line dry recommended",
+          "ironing": "Iron on high heat",
+          "dry_cleaning": "Optional",
+          "suggested_applications": "Apparel (jeans, jackets, skirts)",
+          "manufacturer": {
+            "name": "Denim Works",
+            "contact": "info@denimworks.com",
+            "phone": "+1-800-234-5678"
+          },
+          "supplier": {
+            "name": "Uptown Fabrics",
+            "contact": "contact@uptownfabrics.com",
+            "phone": "+1-800-876-5432"
+          },
+          "image_url": "src/assets/fabrics/denim.jpeg",
+          "created_at": "2025-03-02T11:30:00Z"
+        },
+        {
+          "id": 3,
+          "name": "Flannel",
+          "color": "Tartan Check",
+          "type": "Woven",
+          "composition": "60% Cotton, 40% Polyester",
+          "weight": "180 GSM",
+          "width": "56 inches",
+          "weave_or_knit_structure": "Plain Weave",
+          "thread_count": 150,
+          "dyeing_and_finishing": "Brushed finish for softness",
+          "shrinkage": "4%",
+          "washing": "Machine wash cold, gentle cycle",
+          "drying": "Tumble dry low",
+          "ironing": "Iron on low heat",
+          "dry_cleaning": "Not recommended",
+          "suggested_applications": "Apparel (shirts, pajamas, blankets)",
+          "manufacturer": {
+            "name": "Flannel Fabrics Inc.",
+            "contact": "support@flannelfabrics.com",
+            "phone": "+1-800-333-4444"
+          },
+          "supplier": {
+            "name": "The Fabric Store",
+            "contact": "sales@thefabricstore.com",
+            "phone": "+1-800-555-6666"
+          },
+          "image_url": "src/assets/fabrics/Flannel.jpeg",
+          "created_at": "2025-03-03T14:00:00Z"
+        },
+        {
+          "id": 4,
+          "name": "Silk",
+          "color": "Purple",
+          "type": "Woven",
+          "composition": "100% Silk",
+          "weight": "100 GSM",
+          "width": "45 inches",
+          "weave_or_knit_structure": "Plain Weave",
+          "thread_count": 300,
+          "dyeing_and_finishing": "Hand-dyed, soft finish",
+          "shrinkage": "2%",
+          "washing": "Hand wash cold or dry clean",
+          "drying": "Do not tumble dry, line dry in shade",
+          "ironing": "Iron on low heat, with a cloth",
+          "dry_cleaning": "Recommended",
+          "suggested_applications": "Apparel (evening gowns, scarves, blouses)",
+          "manufacturer": {
+            "name": "Silk Essence Ltd.",
+            "contact": "info@silkessence.com",
+            "phone": "+1-800-777-8888"
+          },
+          "supplier": {
+            "name": "Luxury Fabrics",
+            "contact": "luxury@luxuryfabrics.com",
+            "phone": "+1-800-999-0000"
+          },
+          "image_url": "src/assets/fabrics/silk.jpeg",
+          "created_at": "2025-03-05T09:00:00Z"
+        }
+      ]
+      
+}
